@@ -4,11 +4,11 @@
     "slug": "Lectura",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/torchcrack.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/torchcrack3.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#eff400"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
